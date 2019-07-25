@@ -1,7 +1,7 @@
 
 ## Mental Health Care Services Available in Bangladesh
 
-Some of the Mental Health Care Services available across Bangladesh -
+Some of the Mental Health Care Services available across Bangladesh are -
 
 #### 1. Nasirullah Psychotherapy Unit, Clinical Psychology Department 
 ```markdown
