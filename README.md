@@ -156,4 +156,4 @@ Email: info@aparajeyo.org
 Website: www.aparajeyo.org
 Hours: Saturday – Thursday (Thursday 2pm)
 ```
-###### fees are subject to change
+###### ***Fees are subject to change
