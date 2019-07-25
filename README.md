@@ -50,7 +50,7 @@ Contact Number: 02-8116969, 02-8130508, 02- 9146543, FAX: 65589
 #### 7. Ain o Salish Kendra (ASK) – a Legal Aid & Human Rights Organization
 ```markdown
 Address: 7/16 Block-C, Lalmatia, Dhaka-1207.
-Email: [ask@citechco.net](mailto:ask@citechco.net)
+Email: ask@citechco.net
 Website: http://www.askbd.org
 Hours: Sunday – Thursday, 9am – 5pm
 Services: Legal Support, Child Support, Psychosocial Counseling
@@ -69,7 +69,7 @@ Email: ntccb@yahoo.com
 Website: ntcc-mowca.gov.bd
 ```
 #### 9. Kaan Pete Roi (কান  পেতে  রই)
-*Mental Health Helpline. Anyone can call and get help from trained professionals. Helpful for people with depression, loneliness, and suicidal tendencies or any mental health problem.*
+<span style="color:Green">*Mental Health Helpline. Anyone can call and get help from trained professionals. Helpful for people with depression, loneliness, and suicidal tendencies or any mental health problem.*
 ```markdown
 Hours: Friday – Wednesday, 3pm – 9pm. Thursday 3pm – 3am.
 Contact Number: GP 017795543391, 01779554392
@@ -80,7 +80,7 @@ Tele talk: 01517969150
 Website: shuni.org
 ```
 #### 10. Identity Inclusion
-*“Identity Inclusion’ works towards creating a society that is inclusive of people with psycho-social disabilities. The focus on psycho-social disabilities as opposed to mental ‘illness’ is to acknowledge and address the pervasive stereotypes, attitudes and barriers faced by people suffering from mental health issues, learning/developmental disabilities, or conditions such as epilepsy and cerebral palsy”*
+<span style="color:Green">*“Identity Inclusion’ works towards creating a society that is inclusive of people with psycho-social disabilities. The focus on psycho-social disabilities as opposed to mental ‘illness’ is to acknowledge and address the pervasive stereotypes, attitudes and barriers faced by people suffering from mental health issues, learning/developmental disabilities, or conditions such as epilepsy and cerebral palsy”*
 ```markdown
 Services: Psychosocial Support, Advocacy & Awareness,Technology for Inclusion,Capacity Building.
 Address: House – 147, Block–D, Road-6, Mohanagar Project, Rampura
@@ -113,7 +113,7 @@ Contact Number: 01724979415
 Address: House #190/1, Wireless Railgate, Boro Maghbazar, Dhaka – 1217.
 Hours: Saturday – Thursday, 9am – 10pm.
 ```
-### <font color='REBECCAPURPLE'> Special Case</font> 
+### <font color='REBECCAPURPLE'> Special Cases</font> 
 #### 16.  Outside of Dhaka City- Pabna Mental Hospital
 ```markdown
 Services: For mental health patients and Addicted (only male)
