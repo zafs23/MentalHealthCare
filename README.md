@@ -5,7 +5,7 @@ Some of the Mental Health Care Services available across Bangladesh -
 
 #### 1. Nasirullah Psychotherapy Unit, Clinical Psychology Department 
 ```markdown
-Address: Dhaka University, Ars Department (Kola Bhaban, 4th Floor)
+Address: Dhaka University, Arts Department (Kola Bhaban, 4th Floor)
 Hours: Saturday (only for Children) – Thursday, 10am – 6pm
 Services: Psychotherapy and Counseling for Children and Adults
 Contact Number: 01755654835
@@ -156,3 +156,4 @@ Email: info@aparajeyo.org
 Website: www.aparajeyo.org
 Hours: Saturday – Thursday (Thursday 2pm)
 ```
+###### fees are subject to change
